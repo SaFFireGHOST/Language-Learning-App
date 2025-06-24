@@ -1,7 +1,3 @@
-Here’s your updated **README.md** file for **LinguaQuest** with a more polished structure, clearer descriptions, and improved formatting for professional presentation:
-
----
-
 # 🌍 LinguaQuest – Gamified Language Learning
 
 **LinguaQuest** is an immersive and interactive language-learning application that transforms the process of acquiring a new language into a fun gaming experience. With dynamic lesson generation, gamified quizzes, and progress tracking, users can advance their language skills while enjoying every moment.
@@ -18,7 +14,7 @@ Here’s your updated **README.md** file for **LinguaQuest** with a more polishe
 * [Backend Structure](#backend-structure)
 * [Frontend Structure](#frontend-structure)
 * [Getting Started](#getting-started)
-* [License](#license)
+
 
 ---
 
@@ -170,12 +166,6 @@ npm run dev
 ```
 
 Open your browser and visit: [http://localhost:5173](http://localhost:5173)
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
